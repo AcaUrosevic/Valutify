@@ -1,6 +1,8 @@
-# Valutify
-Organizuj i upravljaj fajlovima unutar Vaultova na efikasan način!
+# Vaultify  
+Organize and manage files within Vaults efficiently!  
 
-Vaultify je aplikacija za upravljanje fajlovima pomoću Vaultova – organizacionih jedinica koje omogućavaju fleksibilnu i sigurnu organizaciju podataka. Kreirana u C++ jeziku, nezavisna je od operativnog sistema koristeći WINApi za Windows i Unix API za Linux.
+Vaultify is an application for managing files using **Vaults** – organizational units that enable flexible and secure data organization. Built in C++, it is independent of the operating system, using **WINApi** for Windows and **Unix API** for Linux.  
 
-Work in progress – Aktivno se razvija i dodaju se nove funkcionalnosti!
+**Work in progress** – New features are being actively developed!
+
+
